@@ -1,0 +1,8 @@
+{
+    "dbDetails": {
+        "userName": "dbUser1",
+        "password": "kunal1812"
+    },
+    "secretKey": "12345-67890-09876-54321",
+    "port": 8080
+}
